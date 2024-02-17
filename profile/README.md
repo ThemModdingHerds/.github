@@ -13,9 +13,10 @@ contains tools/libraries for potential modding capabilities for Them's Fightin' 
 
 ## Libraries
 
-- [ThemModdingHerds.IO][io-library] - a basic IO library for C#
-- [ThemModdingHerds.GFS][gfs-library] - `.gfs` file parser/writer library for C#
-- [ThemModdingHerds.TFHRES][tfhres-library] - `.tfhres` file parser/writer library for C#
+- [ThemModdingHerds.IO][io-library] - a basic IO library in C#
+- [ThemModdingHerds.GFS][gfs-library] - `.gfs` file parser/writer library in C#
+- [ThemModdingHerds.TFHRES][tfhres-library] - `.tfhres` file parser/writer library in C#
+- [ThemModdingHerds.Levels][levels-library] - file parser/writer for `.sgi`/`.sgs`/`.sga`/`.sgm` files in C#
 
 [io-library]: https://github.com/ThemModdingHerds/io
 [gfs-library]: https://github.com/ThemModdingHerds/gfs
@@ -23,3 +24,4 @@ contains tools/libraries for potential modding capabilities for Them's Fightin' 
 [velvet-beautifier-tool]: https://github.com/ThemModdingHerds/velvet-beautifier
 [gfs-cli-tool]: https://github.com/ThemModdingHerds/gfs-cli
 [file-structures-document]: https://github.com/ThemModdingHerds/file-structures
+[levels-library]: https://github.com/ThemModdingHerds/levels
