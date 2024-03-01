@@ -10,6 +10,7 @@ contains tools/libraries for potential modding capabilities for Them's Fightin' 
 ## Documents
 
 - [File Structures][file-structures-document] - documents common file structures
+- [Research][research-link] - some stuff that I have researched
 
 ## Libraries
 
@@ -25,3 +26,4 @@ contains tools/libraries for potential modding capabilities for Them's Fightin' 
 [gfs-cli-tool]: https://github.com/ThemModdingHerds/gfs-cli
 [file-structures-document]: https://github.com/ThemModdingHerds/file-structures
 [levels-library]: https://github.com/ThemModdingHerds/levels
+[research-link]: https://github.com/ThemModdingHerds/research
